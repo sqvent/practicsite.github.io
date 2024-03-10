@@ -1,0 +1,54 @@
+.header {
+    background: linear-gradient(147.17deg, #D251FF, #FF7A00 100%);
+    color: white;
+    padding: 20px;
+}
+
+.content {
+    text-align: center;
+    margin-top: 20px; /* Добавляем отступ сверху, чтобы контент не прилипал к шапке */
+}
+
+.carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.phone-image {
+    margin-right: 20px; /* Отступ справа для размещения изображения телефона */
+}
+
+.phone-image img {
+    max-width: 100%;
+    max-height: 500px;
+}
+
+.small-image {
+    text-align: left; /* Выравнивание текста и маленького изображения слева */
+}
+
+.small-image img {
+    max-width: 100px;
+    max-height: 100px;
+    cursor: pointer;
+}
+
+.downGroupTwo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.imageGroupTwo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Functions{
+    text-align: center;
+    margin-top: 20px; /* Добавляем отступ сверху, чтобы контент не прилипал к шапке */
+}
